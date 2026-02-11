@@ -37,7 +37,7 @@ I'm a full-stack developer with a passion for building **accessible**, **SEO-opt
 ### 📫 Let's Connect
 - **Portfolio**: [aaronaperez.dev](https://www.aaronaperez.dev/)
 - **LinkedIn**: [linkedin.com/in/aaronaperezdev](https://www.linkedin.com/in/aaronaperezdev/)
-- **Email**: aaperez06@gmail.com
+- **Email**: aaronperezdev@gmail.com
 - **Location**: Stockton, California
 
 ### 💡 Fun Facts
@@ -48,9 +48,6 @@ I'm a full-stack developer with a passion for building **accessible**, **SEO-opt
 
 ---
 
-### 📊 GitHub Stats
-
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronAPerez&show_icons=true&theme=radical)
 
 ### 🛠️ Tech Stack
 
