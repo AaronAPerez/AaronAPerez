@@ -18,7 +18,6 @@ I'm a full-stack developer with a passion for building **accessible**, **SEO-opt
 ### 🌟 Key Projects
 - **[AMP Vending Machines](https://github.com/AaronAPerez/AMP-Vending-Machines-Website)** - Production web application with advanced SEO strategies and accessibility compliance
 - **[Personal Portfolio](https://github.com/AaronAPerez/NextJS-Portfolio)** - Modern Next.js portfolio showcasing full-stack capabilities
-- **[CloudGov Dashboard](https://github.com/AaronAPerez/CloudGov-Dashboard)** - Cloud management interface built with TypeScript
 - **[Goldmine Communications & Construction](https://github.com/AaronAPerez/Goldmine-Communications-Construction-Website)** - Professional Website & Social Media Automation Platform
 - **[The Glamping Spot](https://github.com/AaronAPerez/the-glamping-spot)** - Booking platform with responsive design
 
